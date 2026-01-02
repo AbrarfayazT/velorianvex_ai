@@ -1,6 +1,6 @@
-# velorianvex
+# velorianvex_ai
 Context-aware AI chatbot for consistent, purpose-driven interaction
-# VelorianVex
+# VelorianVex_ai
 
 VelorianVex is an AI-powered chatbot designed to provide consistent, contextual, and purpose-driven interaction rather than generic question-and-answer responses.
 
